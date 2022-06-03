@@ -46,7 +46,7 @@ Funcionalidades da aplicação:
 GitHub
 AlineAlmeida85
 
-[Link:]() 
+[Link:](https://alinealmeida85.github.io/Spread-Fullstack-Developer-3/) 
 
 <h1 align="center">
   <img alt="banner" title="#banner" src="banner.png" style="border-radius: 10%" height="300px" />
@@ -60,9 +60,10 @@ Nenhum, basta clicar no link acima
 
 As seguintes tecnologias foram usadas na construção do projeto:
 
-- []()
-- []()
-- []()
+- [HTML]()
+- [CSS]()
+- [Javascript]()
+- [Typescript]()
 
 # ✅ Autor 👌
 
