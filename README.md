@@ -57,7 +57,6 @@ ______________________________________________________________
 ## 🚀 Demonstração 
 
 > 🚧 Em construção 🚧
-[Link:](https://alinealmeida85.github.io/Spread-Fullstack-Developer-3/) 
 
 ______________________________________________________________
 ## 📋 Pré-requisitos 
